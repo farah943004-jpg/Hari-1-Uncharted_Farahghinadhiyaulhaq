@@ -47,7 +47,8 @@ Ke depannya, saya ingin mencoba menggunakan GitHub untuk menyimpan tugas dan men
 
 ## Dokumentasi Kegiatan 
 ![Dokumentasi Workshop hari 1]
-(image1dokumentasi.jpg)
+(image1 dokumentasi.jpg)
+
 
 
 
