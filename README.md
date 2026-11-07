@@ -45,10 +45,6 @@ Sebelumnya, saya belum terlalu memahami dan mengenaal perbedaan Git dan GitHub s
 dan praktik, saya jadi lebih memahami fungsi keduanya. 
 Ke depannya, saya ingin mencoba menggunakan GitHub untuk menyimpan tugas dan mengelola proyek kelompok.
 
-## Dokumentasi Kegiatan 
-! [Dokumentasi Workshop Hari 1]
-(image1 dokumentasi.jpg)
-
 
 
 
