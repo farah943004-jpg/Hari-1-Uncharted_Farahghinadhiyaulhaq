@@ -44,3 +44,7 @@ Menurut saya, workshop ini memiki manfaat karena memberikan sayasebuah pengetahu
 Sebelumnya, saya belum terlalu memahami dan mengenaal perbedaan Git dan GitHub serta cara menggunakannya. Setelah mengikuti penjelasan 
 dan praktik, saya jadi lebih memahami fungsi keduanya. 
 Ke depannya, saya ingin mencoba menggunakan GitHub untuk menyimpan tugas dan mengelola proyek kelompok.
+
+## Dokumentasi
+
+
