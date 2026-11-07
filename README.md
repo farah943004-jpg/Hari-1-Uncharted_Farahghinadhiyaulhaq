@@ -1,6 +1,6 @@
 # Dokumentasi Workshop Lokakarya Proyek Hari 1
 
-Nama Lengkap: Farahghina Dhiyaulhaq  
+Nama Lengkap: Farah ghina Dhiyaul haq  
 Kelompok: Uncharted
 
 ## Deskripsi
