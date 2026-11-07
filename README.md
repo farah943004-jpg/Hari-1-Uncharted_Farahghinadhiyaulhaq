@@ -46,7 +46,7 @@ dan praktik, saya jadi lebih memahami fungsi keduanya.
 Ke depannya, saya ingin mencoba menggunakan GitHub untuk menyimpan tugas dan mengelola proyek kelompok.
 
 ## Dokumentasi Kegiatan 
-! [Dokumentasi Workshop hari 1]
+! [Dokumentasi Workshop Hari 1]
 (image1 dokumentasi.jpg)
 
 
